@@ -1,0 +1,1 @@
+Clicker Game using TypeScript.
